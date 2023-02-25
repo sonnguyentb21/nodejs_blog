@@ -1,0 +1,33 @@
+{
+  "name": "practice_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start" : "nodemon --inspect app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnguyentb21/nodejs_blog.git"
+  },
+  "keywords": [
+    "practice",
+    "blog",
+    "practice",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "sontb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnguyentb21/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/sonnguyentb21/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
